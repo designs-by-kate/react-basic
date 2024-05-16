@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, Home, CircleUser, FolderGit2, Phone, ArrowLeft, ArrowRight } from 'lucide-react';
+import { Menu, Home, CircleUser, FolderGit2, Images, Phone, ArrowLeft, ArrowRight } from 'lucide-react';
 
 const Navbar = () => {
   const navLinks = [
     { path: '/', label: 'Home', icon: Home },
     { path: '/about', label: 'About', icon: CircleUser },
     { path: '/projects', label: 'Projects', icon: FolderGit2 },
+    { path: '/gallery', label: 'Gallery', icon: Images },
     { path: '/contact', label: 'Contact', icon: Phone }
   ];
 
