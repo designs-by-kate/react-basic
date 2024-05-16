@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "E-commerce Website",
+      "date": "2023-05-15",
+      "image": "https://example.com/ecommerce.jpg",
+      "description": "Developed a fully functional e-commerce website using React.js and Node.js.",
+      "tools": ["React.js", "Node.js", "Express.js", "MongoDB"]
+    },
+    {
+      "id": 2,
+      "name": "Social Media App",
+      "date": "2023-08-20",
+      "image": "https://example.com/social-media.jpg",
+      "description": "Created a social media app where users can share posts, follow other users, and interact with content.",
+      "tools": ["React.js", "Firebase", "Redux", "Material-UI"]
+    },
+    {
+      "id": 3,
+      "name": "Task Management Application",
+      "date": "2023-10-10",
+      "image": "https://example.com/task-management.jpg",
+      "description": "Built a task management application for organizing tasks and projects efficiently.",
+      "tools": ["React.js", "Node.js", "MongoDB", "Bootstrap"]
+    }
+  ]
+  
